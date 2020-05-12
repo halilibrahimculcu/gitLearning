@@ -3,7 +3,7 @@ package tests;
 public class Practice {
 
 
-hi everyone
+BU YAZIYI NASIL INTELIJE ATARAIM 
 
 
 
