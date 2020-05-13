@@ -15,11 +15,14 @@ public class Login {
 
 
 
+<<<<<<< HEAD
     }
+=======
+// halil
+>>>>>>> 340c97b9cb7f83c7ab35173f66f149ed3e9ab812
 
 
-
-
+// ibrahim
 
 
 
